@@ -62,4 +62,4 @@ src/
 
 ## Author
 
-Paramesh Pampari
+Viswajith Ganesh
